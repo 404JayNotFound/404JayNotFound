@@ -1,9 +1,48 @@
-# Hi there! 👋 I'm Jamie – Electronics Engineer, Robotics Enthusiast, and Computer Science Advocate
+# Hi, I'm Jamie 👋  
+**Electronics Engineer | Robotics Enthusiast | Computer Science Advocate**
 
-Welcome to my GitHub profile! I'm an **Electronics Engineer** with a strong foundation in **Computer Science**, and I’m deeply passionate about **Robotics**. Over the years, I've worked with various tools, languages, and frameworks to bring innovative ideas to life. I’m currently diving deeper into **ROS2 (Robot Operating System)** to enhance my robotics and automation projects.
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Welcome to my GitHub! I’m an Electronics Engineer with a solid foundation in Computer Science, passionate about Robotics, Artificial Intelligence, and intelligent systems. My work blends low-level electronics with high-level software to create smart, autonomous, and adaptive machines.
 
+Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perception, decision-making, and control in real-world applications.
 
-[![](https://visitcount.itsvg.in/api?id=404JayNotFound&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+
+## 🚀 What I'm Working On  
+- Developing autonomous robots using ROS2  
+- Integrating sensors and actuators for smart systems
+- Exploring AI/ML integration for real-time decision making  
+- Building modular and scalable embedded solutions  
+- Advancing in C++, Python, and microcontroller programming  
+
+---
+
+## 🛠 Technologies & Tools  
+- C/C++ & Python  
+- ROS2 (Robot Operating System)  
+- Arduino, Raspberry Pi  
+- Embedded Systems Design  
+- PCB Design (Proteus, Eagle)
+- 3D modeling using Fusion 360
+- Linux & Bash  
+- Git & GitHub  
+- Visual Studio Code, MPLab 
+
+---
+
+## 📚 Current Focus  
+- Real-time control systems with ROS2  
+- SLAM (Simultaneous Localization and Mapping)  
+- Computer Vision with RViz  
+- Robotics Middleware & Message Passing  
+- Exploring AI algorithms 
+
+---
+
+## 📫 How to Reach Me  
+- GitHub: [Jamie O'Connor](https://github.com/404JayNotFound) 
+
+---
+
+> "We do not fear extinction, we engineer survival"
