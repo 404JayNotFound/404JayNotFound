@@ -9,7 +9,7 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 
 ---
 
-## 🚀 What I'm Working On  
+## 📚 Current Focus  
 - Developing autonomous robots using ROS2  
 - Integrating sensors and actuators for smart systems
 - Exploring AI/ML integration for real-time decision making  
@@ -28,15 +28,6 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 - Linux & Bash  
 - Git & GitHub  
 - Visual Studio Code, MPLab 
-
----
-
-## 📚 Current Focus  
-- Real-time control systems with ROS2  
-- SLAM (Simultaneous Localization and Mapping)  
-- Computer Vision with RViz  
-- Robotics Middleware & Message Passing  
-- Exploring AI algorithms 
 
 ---
 
