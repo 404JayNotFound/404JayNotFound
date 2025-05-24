@@ -19,15 +19,15 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 ---
 
 ## 🛠 Technologies & Tools  
-- C/C++ & Python  
+- C/C++, Python, Java  
 - ROS2 (Robot Operating System)  
 - Arduino, Raspberry Pi  
 - Embedded Systems Design  
-- PCB Design (Proteus, Eagle)
+- PCB Design (Proteus)
 - 3D modeling using Fusion 360
 - Linux & Bash  
 - Git & GitHub  
-- Visual Studio Code, MPLab 
+- Visual Studio Code, MPLabXIDE, Eclipse 
 
 ---
 
