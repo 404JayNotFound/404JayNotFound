@@ -32,7 +32,8 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 ---
 
 ## 📫 How to Reach Me  
-- GitHub: [Jamie O'Connor](https://github.com/404JayNotFound) 
+- GitHub: [Jamie O'Connor](https://github.com/404JayNotFound)
+- LinkedIn: [Jamie O'Connor](https://www.linkedin.com/in/jamie-o-connor-76b797367/)
 
 ---
 
