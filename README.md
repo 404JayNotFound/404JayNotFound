@@ -19,7 +19,7 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 ---
 
 ## 🛠 Technologies & Tools  
-- C/C++, Python, Java  
+- C/C++, Python
 - ROS2 (Robot Operating System)  
 - Arduino, Raspberry Pi  
 - Embedded Systems Design  
