@@ -37,4 +37,4 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 
 ---
 
-> "We do not fear extinction, we engineer survival"
+> "Linked lists aren't real. Have you ever scrolled through a codebase and found a linked list organically? Of course not—they don't exist. Can’t you just be patient for a linear-time solution"
