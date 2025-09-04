@@ -18,22 +18,35 @@ Currently, I'm diving deeper into **ROS2** and **AI algorithms** to enhance perc
 
 ---
 
-## 🛠 Technologies & Tools  
-- C/C++, Python
-- ROS2 (Robot Operating System)  
-- Arduino, Raspberry Pi  
-- Embedded Systems Design  
-- PCB Design (Proteus)
-- 3D modeling using Fusion 360
-- Linux & Bash  
-- Git & GitHub  
-- Visual Studio Code, MPLabXIDE, Eclipse 
+## 🛠 Tools & Technologies
+
+### Programming & Frameworks
+- C/C++, Python, Java, Assembly  
+- ROS2 (Nav2, SLAM, Gazebo, RViz)  
+- TypeScript, JavaScript, HTML, CSS  
+
+### Embedded Systems & Hardware
+- Arduino, Raspberry Pi, Pi Pico  
+- LIDAR, H-Bridge motor control  
+- Docker, Microcontrollers  
+
+### Cloud & Web Tools / APIs
+- Firebase, Vercel, Google Drive API  
+
+### Software & Development Tools
+- Linux & Bash, Git & GitHub  
+- Visual Studio Code, MPLab X IDE, Eclipse  
+- CMake  
+
+### Design & Modeling
+- PCB Design (Proteus)  
+- 3D Modeling (Fusion 360)
+
 
 ---
 
 ## 📫 How to Reach Me  
 - [GitHub](https://github.com/404JayNotFound)
-- [LinkedIn](https://www.linkedin.com/in/jamie-o-connor-76b797367/)
 
 ---
 
