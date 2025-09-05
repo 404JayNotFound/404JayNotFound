@@ -31,12 +31,3 @@ Welcome to my GitHub! I’m an Electronics Engineer with a solid foundation in C
 
 ### 📐 Design & Modeling
 ![Proteus Badge](https://img.shields.io/badge/Proteus-1C79B3?logo=proteus&logoColor=fff&style=for-the-badge) ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white)
-
----
-
-## 📫 How to Reach Me  
-- [GitHub](https://github.com/404JayNotFound)
-
----
-
-> "Linked lists aren't real. Have you ever scrolled through a codebase and found a linked list organically? Of course not—they don't exist. Can’t you just be patient for a linear-time solution"
