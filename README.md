@@ -1,6 +1,6 @@
-**Electronics Engineer | Robotics Enthusiast | Embedded & Software Developer**
+## **Electronics Engineer | Robotics Enthusiast | Embedded & Software Developer**
 
----
+
 
 Welcome to my GitHub! I’m an Electronics Engineer with a solid foundation in Computer Science, passionate about Robotics, Artificial Intelligence, and intelligent systems. My work blends low-level electronics with high-level software to create smart, autonomous, and adaptive machines.
 
